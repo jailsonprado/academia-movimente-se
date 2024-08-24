@@ -42,13 +42,21 @@ function App() {
           src={scaFit}
           width={300}
           style={{
-            opacity: 0.5, // Ajuste a opacidade para tornar a imagem transparente
-            position: "absolute", // Posiciona a imagem sobre outros elementos
-            zIndex: -100, // Garante que a imagem fique atrás do conteúdo
-            marginTop: -300, // Ajuste o valor conforme necessário
+            opacity: 0.5,
+            position: "absolute",
+            zIndex: -100,
+            marginTop: -300,
           }}
           alt="Descrição da imagem"
         />
+      </div>
+      <div className="flex flex-col items-center justify-center mt-16">
+        <a href="https://www.instagram.com/jailson.pradod/">
+          <h2 className="text-white text-center">Desenvolvimento por:</h2>
+          <h2 className="italic text-white underline">
+            Jailson Prado - Fullstack Developer
+          </h2>
+        </a>
       </div>
     </div>
   );
