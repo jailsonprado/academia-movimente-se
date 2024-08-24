@@ -50,14 +50,18 @@ function App() {
           alt="Descrição da imagem"
         />
       </div>
-      <div className="flex flex-col items-center justify-center mt-16">
+
+      <div className="flex flex-col items-center justify-center mt-10">
         <a href="https://www.instagram.com/jailson.pradod/">
-          <h2 className="text-white text-center">Desenvolvimento por:</h2>
+          <h2 className="text-white text-center">Site Desenvolvido por:</h2>
           <h2 className="italic text-white underline">
             Jailson Prado - Fullstack Developer
           </h2>
         </a>
       </div>
+      <h2 className="italic text-white  mt-2 text-center text-nowrap">
+        © Sistema e aplicativo SCA <br /> Todos direitos reservados
+      </h2>
     </div>
   );
 }
