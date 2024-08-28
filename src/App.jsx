@@ -20,7 +20,7 @@ function App() {
       </div>
       <div>
         <h2 className="text-white font-medium text-xl ">
-          use o codigo <strong>44455320</strong>|
+          use o codigo <strong>44455320</strong>
         </h2>
       </div>
       <div className="flex flex-col items-center mt-4">
