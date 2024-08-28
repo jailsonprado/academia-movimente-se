@@ -18,13 +18,18 @@ function App() {
           Baixe nosso aplicativo
         </h2>
       </div>
+      <div>
+        <h2 className="text-white font-medium text-xl ">
+          use o codigo <strong>44455320</strong>|
+        </h2>
+      </div>
       <div className="flex flex-col items-center mt-4">
-        <a href="https://play.google.com/store/apps/details?id=com.sistemasca.scaaluno&pcampaignid=web_share">
+        <a href="https://play.google.com/store/search?q=sca+fit&c=apps&hl=pt_BR">
           <img width={250} src={playStore} />
         </a>
       </div>
       <div>
-        <a href="https://apps.apple.com/br/app/sca-aluno/id1630928165?platform=iphone">
+        <a href="https://apps.apple.com/br/app/sca-fit/id1555516617">
           <img width={250} src={appleStore} />
         </a>
       </div>
