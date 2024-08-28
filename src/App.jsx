@@ -34,7 +34,7 @@ function App() {
           use o codigo <strong className="text-white">44455320</strong>
         </h3>
       </div>
-  <span className="text-black italic underline">
+  <span className="text-black font-bold text-center text-base">
     Sua matrícula é combinada com sua senha, que é sua data de nascimento no formato DDMMYY. Exemplo: 030797 para 03 de julho de 1997.
   </span>
         <div className="flex flex-col items-center mt-4">
