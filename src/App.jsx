@@ -35,12 +35,12 @@ function App() {
         <div className="flex flex-col items-center mt-4">
         <img src={"https://play-lh.googleusercontent.com/jJAVqIrLzVqVubmFwNagy1MHTjlIo4GSgj_auh7Q_A35POj2XCGZezTuNyYgg2G7dQ"} width={100} className="rounded-2xl" />
       </div>
-       <div>
+       <div className="bg-[#06c] flex">
         <h3 className="text-black font-bold text-xl p-5">
           use o codigo <strong>44455320</strong>
         </h3>
       </div>
-      <div className="flex justify-around bg-[#06c] w-full shadow-md mt-2">
+      <div className="flex justify-around bg-[#06c] w-full shadow-md mt-1">
         <p className="text-center text-white text-xl font-medium">
           Treinos - Avaliações - Pagamentos
         </p>
