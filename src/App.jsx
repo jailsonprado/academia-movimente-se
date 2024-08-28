@@ -19,7 +19,7 @@ function App() {
         </h2>
       </div>
       <div>
-        <h2 className="text-white font-medium text-xl ">
+        <h2 className="text-white font-medium text-xl p-5">
           use o codigo <strong>44455320</strong>
         </h2>
       </div>
@@ -33,7 +33,7 @@ function App() {
           <img width={250} src={appleStore} />
         </a>
       </div>
-      <div>
+      <div className="italic text-white underline>
         matricula + senha ( data de nascimento[DDMMAA] dia/mes/ano
       </div>
       <div className="flex flex-col items-center mt-4">
