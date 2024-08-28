@@ -33,9 +33,11 @@ function App() {
           <img width={250} src={appleStore} />
         </a>
       </div>
-      <div className="flex items-center italic text-white underline m-10">
-        matricula + senha ( data de nascimento[DDMMAA]dia/mes/ano
-      </div>
+      <div className="flex items-center bg-white shadow-lg p-6 rounded-lg m-10">
+  <span className="text-black italic underline">
+    matricula + senha ( data de nascimento[DDMMAA]dia/mes/ano )
+  </span>
+</div>
       <div className="flex flex-col items-center mt-4">
         <img src={logoSca} width={100} className="rounded-2xl" />
       </div>
