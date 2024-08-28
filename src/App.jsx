@@ -34,7 +34,7 @@ function App() {
         </a>
       </div>
       <div className="flex items-center italic text-white underline">
-        matricula + senha ( data de nascimento[DDMMAA] dia/mes/ano
+        matricula + senha ( data de nascimento[DDMMAA]dia/mes/ano
       </div>
       <div className="flex flex-col items-center mt-4">
         <img src={logoSca} width={100} className="rounded-2xl" />
