@@ -49,7 +49,7 @@ function App() {
 
       <div className="flex flex-col items-center">
         <img
-          src={scaFit}
+          src={"https://play-lh.googleusercontent.com/jJAVqIrLzVqVubmFwNagy1MHTjlIo4GSgj_auh7Q_A35POj2XCGZezTuNyYgg2G7dQ"}
           width={300}
           style={{
             opacity: 0.5,
