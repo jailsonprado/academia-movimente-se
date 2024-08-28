@@ -18,11 +18,6 @@ function App() {
           Baixe nosso aplicativo
         </h2>
       </div>
-      <div>
-        <h2 className="text-white font-medium text-xl p-5">
-          use o codigo <strong>44455320</strong>
-        </h2>
-      </div>
       <div className="flex flex-col items-center mt-4">
         <a href="https://play.google.com/store/search?q=sca+fit&c=apps&hl=pt_BR">
           <img width={250} src={playStore} />
@@ -39,6 +34,11 @@ function App() {
   </span>
         <div className="flex flex-col items-center mt-4">
         <img src={"https://play-lh.googleusercontent.com/jJAVqIrLzVqVubmFwNagy1MHTjlIo4GSgj_auh7Q_A35POj2XCGZezTuNyYgg2G7dQ"} width={100} className="rounded-2xl" />
+      </div>
+       <div>
+        <h3 className="text-black font-bold text-xl p-5">
+          use o codigo <strong>44455320</strong>
+        </h3>
       </div>
       <div className="flex justify-around bg-[#06c] w-full shadow-md mt-2">
         <p className="text-center text-white text-xl font-medium">
