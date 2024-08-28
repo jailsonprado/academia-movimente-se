@@ -33,6 +33,9 @@ function App() {
           <img width={250} src={appleStore} />
         </a>
       </div>
+      <div>
+        matricula + senha ( data de nascimento[DDMMAA] dia/mes/ano
+      </div>
       <div className="flex flex-col items-center mt-4">
         <img src={logoSca} width={100} className="rounded-2xl" />
       </div>
