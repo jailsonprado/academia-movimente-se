@@ -33,9 +33,9 @@ function App() {
           <img width={250} src={appleStore} />
         </a>
       </div>
-      <div className="flex items-center bg-white shadow-lg p-6 rounded-lg m-10">
+     <div className="flex items-center bg-white shadow-lg p-3 rounded-lg m-5">
   <span className="text-black italic underline">
-    matricula + senha ( data de nascimento[DDMMAA]dia/mes/ano )
+    Sua matrícula é combinada com sua senha, que é sua data de nascimento no formato DDMMYY. Exemplo: 030797 para 03 de julho de 1997.
   </span>
 </div>
       <div className="flex flex-col items-center mt-4">
