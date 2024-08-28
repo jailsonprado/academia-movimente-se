@@ -33,14 +33,14 @@ function App() {
           <img width={250} src={appleStore} />
         </a>
       </div>
-     <div className="flex items-center bg-white shadow-lg p-3 rounded-lg m-5">
+     <div className="flex flex-col items-center bg-white shadow-lg p-3 rounded-lg m-5">
   <span className="text-black italic underline">
     Sua matrícula é combinada com sua senha, que é sua data de nascimento no formato DDMMYY. Exemplo: 030797 para 03 de julho de 1997.
   </span>
         <div className="flex flex-col items-center mt-4">
         <img src={"https://play-lh.googleusercontent.com/jJAVqIrLzVqVubmFwNagy1MHTjlIo4GSgj_auh7Q_A35POj2XCGZezTuNyYgg2G7dQ"} width={100} className="rounded-2xl" />
       </div>
-      <div className="flex flex-col justify-around bg-[#06c] w-full shadow-md mt-2">
+      <div className="flex justify-around bg-[#06c] w-full shadow-md mt-2">
         <p className="text-center text-white text-xl font-medium">
           Treinos - Avaliações - Pagamentos
         </p>
